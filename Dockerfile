@@ -1,7 +1,7 @@
 FROM alpine:latest
 
 ENV KOPS_VERSION=v1.21.1
-ENV KUBECTL_VERSION=v1.10.2
+ENV KUBECTL_VERSION=v1.20.1
 ENV TERRAFORM_VERSION=0.14.11
 #ENV HELM_VERSION=v3.7.0
 #https://github.com/helm/helm/archive/refs/tags/v3.7.0.tar.gz
